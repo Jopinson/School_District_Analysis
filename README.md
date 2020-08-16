@@ -6,3 +6,12 @@ Before the evidence of academic dishonesty was recieved, Thomas High School was 
 ![top_schools_new](https://user-images.githubusercontent.com/68392225/90340371-4523ab80-dfbd-11ea-87e3-b5f272542ca4.png)
 After the evidence was presented Thomas High School fell out of the top five. 
 Overall, the academic dishonesty really only affected Thomas High Schools 9th grade, the top schools are all still charter schools and Thomas High School didn't even fall into the bottom 5 preforming school even with an entire grades scores as invalid!
+![bottom_schools](https://user-images.githubusercontent.com/68392225/90340554-a26c2c80-dfbe-11ea-89fb-6b81fb69dbe2.png)
+The updated math and reading scores only affect the 9th grade level, with overall scores becoming slightly lower. 
+![average_grade_original](https://user-images.githubusercontent.com/68392225/90341087-47d4cf80-dfc2-11ea-8070-07d57e121886.png)
+![average_grade_new](https://user-images.githubusercontent.com/68392225/90341095-558a5500-dfc2-11ea-9b0f-a8f8d4d4283f.png)
+If we include all grades, the changed grades make almost no impact to the overall passing score, going from 90% passing to 87% passing.
+All the results are still higher than district schools.
+
+## Conclusion 
+The overall passing percentage of students was lowered slightly by the NaN scores from Thomas High School. Despite Thomas High School losing the scores of an entire grade, it was still preforming better than the district schools. Charter schools can outpreform district schools at almost all levels. District schools spend more money per student in a lot of cases, and are still outpreformed academically by charter schools. 
